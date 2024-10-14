@@ -24,6 +24,33 @@ For this analysis, I used several advanced tools and techniques:
 - **Conditional Formatting**: Applied to key metrics such as conversion rates and ROI to visually highlight the most impactful campaigns.
 - **Advanced Power BI Features**: Drillthrough, What-If analysis, dynamic segmentation, and custom tooltips.
 
+# The Dashboard
+
+![Marketing Dashboard Overview](marketing_dashboard.png)
+
+### Key Visuals:
+
+1. **Conversion Rate**: 
+   - The overall **conversion rate** is displayed at 8.5%. It calculates the percentage of total conversions relative to total leads. This is critical in understanding the effectiveness of marketing campaigns.
+  
+2. **Conversion Rate by Month**:
+   - The **line chart** tracks the conversion rate month-by-month. Marketers can identify peak periods (e.g., July and October) to understand which campaigns performed best and at which time of year conversions were highest.
+
+3. **Conversion Rate by Product**:
+   - The **bar chart** visualizes conversion rates by product. Products like **Kayak**, **Baseball Glove**, and **Tennis Racket** lead the pack, indicating successful targeting and performance for these specific items.
+
+4. **Social Media Engagement**:
+   - This section shows the total **Views**, **Clicks**, and **Likes** generated from social media platforms. For example, there were **2,982,369 views**, **458,345 clicks**, and **73,618 likes**, giving a high-level overview of customer interactions.
+
+5. **Views, Clicks, and Likes by Month**:
+   - The **line chart** breaks down monthly engagement with social media platforms. Peaks in **January**, **March**, and **July** indicate successful campaigns and higher user interaction in those months.
+
+6. **Customer Reviews**:
+   - The overall **average customer rating** is 3.7. This metric helps assess customer satisfaction, which is crucial for long-term customer retention and loyalty.
+
+7. **Ratings by Month and Product**:
+   - The first **line chart** shows the trend of average customer ratings by month, while the second **bar chart** breaks down average ratings by product. Products like **Football Helmets** and **Fitness Trackers** have higher average ratings, showcasing customer satisfaction.
+   - 
 # The Analysis
 
 ### 1. Campaign Performance by Channel
