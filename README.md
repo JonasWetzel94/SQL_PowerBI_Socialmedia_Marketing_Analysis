@@ -26,7 +26,7 @@ For this analysis, I used several advanced tools and techniques:
 
 # The Dashboard
 
-![Marketing Dashboard Overview](marketing_dashboard.png)
+![Marketing Dashboard Overview](assets/marketing_dashboard.png)
 
 ### Key Visuals:
 
